@@ -1,0 +1,6 @@
+Correct: 49
+Incorrect: 0
+Extra: 0
+Missed: 0
+Accuracy: 100.00%
+WPM: 39.20
